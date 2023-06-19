@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Social media application with React, TypeScript and Firebase that allow user to login and create posts, view post, and like-dislike the posts
 
 ## Available Scripts
 
