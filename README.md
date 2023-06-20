@@ -2,6 +2,12 @@
 
 Social media application with React, TypeScript and Firebase that allow user to login and create posts, view post, and like-dislike the posts
 
+<img width="1440" alt="Screenshot 2023-06-19 at 11 34 20 PM" src="https://github.com/ak22shay/react-socialmedia/assets/14252445/1016267e-e4a7-4549-b071-f295a724c24e">
+
+<img width="1440" alt="Screenshot 2023-06-19 at 11 34 30 PM" src="https://github.com/ak22shay/react-socialmedia/assets/14252445/efa79204-4043-4fc1-ab44-543f7d5d6dfb">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
